@@ -29,19 +29,11 @@ public final class Friz1iks {
 
 ## `> featured_project`
 
-<div align="center">
-  <a href="https://github.com/Friz1iks/Media-player">
-    <img src="assets/project-media-player.svg" width="100%" alt="Open Media-player repository" />
-  </a>
-</div>
-
-`Media-player` — кроссплатформенный Java API для системных медиасессий, управления воспроизведением, обложек и синхронизированного текста. Библиотека рассчитана на Minecraft HUD, кастомные анимации и realtime-рендер.
+[Media-player](https://github.com/Friz1iks/Media-player) — кроссплатформенный Java API для системных медиасессий, управления воспроизведением, обложек и синхронизированного текста. Библиотека рассчитана на Minecraft HUD, кастомные анимации и realtime-рендер.
 
 ## `> currently_building`
 
-<div align="center">
-  <img src="assets/profile-panel.svg" width="100%" alt="Current development direction" />
-</div>
+Сейчас работаю над чистыми JVM API, native-интеграциями и производительным realtime-рендером.
 
 ## `> principles`
 
