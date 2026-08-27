@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-label="Friz1iks terminal banner">
+  <defs><clipPath id="type"><rect x="83" y="104" width="0" height="64"><animate attributeName="width" values="0;690;690;0" keyTimes="0;.24;.88;1" dur="8s" repeatCount="indefinite"/></rect></clipPath></defs>
+  <rect width="1200" height="360" rx="28" fill="#111111"/><rect x="28" y="28" width="1144" height="304" rx="18" fill="#181818" stroke="#343434"/>
+  <circle cx="58" cy="57" r="5" fill="#696969"/><circle cx="76" cy="57" r="5" fill="#696969"/><circle cx="94" cy="57" r="5" fill="#f1f1f1"/><text x="566" y="62" fill="#777" font-family="Roboto Mono,Consolas,monospace" font-size="13">~/friz1iks</text>
+  <g clip-path="url(#type)"><text x="82" y="152" fill="#f4f4f4" font-family="Roboto Mono,Consolas,monospace" font-size="42" font-weight="700">Friz1iks — systems developer</text></g>
+  <text x="82" y="208" fill="#898989" font-family="Roboto Mono,Consolas,monospace" font-size="16">$ stack --active</text><text x="82" y="249" fill="#d7d7d7" font-family="Roboto Mono,Consolas,monospace" font-size="17">java  c++  rust  python  go  minecraft  gradle  cmake  jni  git</text><text x="82" y="293" fill="#898989" font-family="Roboto Mono,Consolas,monospace" font-size="15">$ ready to build</text><rect x="244" y="278" width="10" height="20" fill="#0099ff"><animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/></rect>
+</svg>
