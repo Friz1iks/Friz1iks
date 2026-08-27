@@ -18,13 +18,29 @@ public final class Friz1iks {
 ## `> stack`
 
 <div align="center">
-  <img src="assets/icons/openjdk.svg" width="48" height="48" alt="Java" />&nbsp;&nbsp;&nbsp;
-  <img src="assets/icons/cplusplus.svg" width="48" height="48" alt="C++" />&nbsp;&nbsp;&nbsp;
-  <img src="assets/icons/rust.svg" width="48" height="48" alt="Rust" />&nbsp;&nbsp;&nbsp;
-  <img src="assets/icons/python.svg" width="48" height="48" alt="Python" />&nbsp;&nbsp;&nbsp;
-  <img src="assets/icons/go.svg" width="48" height="48" alt="Go" />&nbsp;&nbsp;&nbsp;
-  <img src="assets/icons/minecraft.svg" width="48" height="48" alt="Minecraft" />&nbsp;&nbsp;&nbsp;
-  <img src="assets/icons/gradle.svg" width="48" height="48" alt="Gradle" />
+  <a href="https://openjdk.org/"><img src="assets/icons/openjdk.svg" width="42" height="42" alt="Java" /></a>&nbsp;&nbsp;
+  <a href="https://isocpp.org/"><img src="assets/icons/cplusplus.svg" width="42" height="42" alt="C++" /></a>&nbsp;&nbsp;
+  <a href="https://www.c-language.org/"><img src="assets/icons/c.svg" width="42" height="42" alt="C" /></a>&nbsp;&nbsp;
+  <a href="https://www.rust-lang.org/"><img src="assets/icons/rust.svg" width="42" height="42" alt="Rust" /></a>&nbsp;&nbsp;
+  <a href="https://www.python.org/"><img src="assets/icons/python.svg" width="42" height="42" alt="Python" /></a>&nbsp;&nbsp;
+  <a href="https://go.dev/"><img src="assets/icons/go.svg" width="42" height="42" alt="Go" /></a>&nbsp;&nbsp;
+  <a href="https://www.typescriptlang.org/"><img src="assets/icons/typescript.svg" width="42" height="42" alt="TypeScript" /></a>&nbsp;&nbsp;
+  <a href="https://developer.mozilla.org/docs/Web/JavaScript"><img src="assets/icons/javascript.svg" width="42" height="42" alt="JavaScript" /></a>&nbsp;&nbsp;
+  <a href="https://www.minecraft.net/"><img src="assets/icons/minecraft.svg" width="42" height="42" alt="Minecraft" /></a>
+</div>
+
+<br />
+
+<div align="center">
+  <a href="https://gradle.org/"><img src="assets/icons/gradle.svg" width="42" height="42" alt="Gradle" /></a>&nbsp;&nbsp;
+  <a href="https://cmake.org/"><img src="assets/icons/cmake.svg" width="42" height="42" alt="CMake" /></a>&nbsp;&nbsp;
+  <a href="https://git-scm.com/"><img src="assets/icons/git.svg" width="42" height="42" alt="Git" /></a>&nbsp;&nbsp;
+  <a href="https://github.com/"><img src="assets/icons/github.svg" width="42" height="42" alt="GitHub" /></a>&nbsp;&nbsp;
+  <a href="https://www.jetbrains.com/idea/"><img src="assets/icons/intellijidea.svg" width="42" height="42" alt="IntelliJ IDEA" /></a>&nbsp;&nbsp;
+  <a href="https://code.visualstudio.com/"><img src="assets/icons/visualstudiocode.svg" width="42" height="42" alt="Visual Studio Code" /></a>&nbsp;&nbsp;
+  <a href="https://www.microsoft.com/windows/"><img src="assets/icons/windows11.svg" width="42" height="42" alt="Windows" /></a>&nbsp;&nbsp;
+  <a href="https://www.linux.org/"><img src="assets/icons/linux.svg" width="42" height="42" alt="Linux" /></a>&nbsp;&nbsp;
+  <a href="https://www.apple.com/macos/"><img src="assets/icons/apple.svg" width="42" height="42" alt="macOS" /></a>
 </div>
 
 ## `> featured_project`
